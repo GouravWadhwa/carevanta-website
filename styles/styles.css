@@ -8,7 +8,7 @@
 /* Body styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: #f0f8ff; /* Light background color */
     color: #333;
 }
 
@@ -21,7 +21,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #007bff;
+    background-color: #87cefa; /* Light sky blue */
     color: #fff;
     padding: 40px 0;
     text-align: center;
@@ -46,12 +46,12 @@ section {
 
 section h2 {
     font-size: 2em;
-    color: #007bff;
+    color: #87cefa; /* Light sky blue */
     margin-bottom: 20px;
 }
 
 .team-member {
-    background-color: #e7f3ff;
+    background-color: #e7f3ff; /* Light blue */
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -59,14 +59,14 @@ section h2 {
 
 /* Contact styling */
 #contact {
-    background-color: #f7fbff;
+    background-color: #f7fbff; /* Very light blue */
     padding: 20px;
     border-radius: 8px;
 }
 
 /* Footer styling */
 footer {
-    background-color: #007bff;
+    background-color: #87cefa; /* Light sky blue */
     color: #fff;
     text-align: center;
     padding: 20px 0;
